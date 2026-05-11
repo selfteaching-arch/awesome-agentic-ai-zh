@@ -27,7 +27,7 @@
 
 ## 🛠 动手练习
 
-- **练习：Python** — 写一个 Python script 呼叫 https://api.github.com/users/torvalds 并印出 follower 数量
+- **练习：Python** — 写一个 Python script 呼叫 https://api.github.com/users/torvalds 并印出 follower 数量   #0基础，不知道如何入手啊
 - **练习：git** — clone 任何一个公开 repo，做一次 commit，push 到自己的 fork
 - **练习：CLI** — 用命令行建几个文件夹跟文件（macOS / Linux：`mkdir project && cd project && mkdir src tests docs`；Windows PowerShell：`New-Item -ItemType Directory -Path project,project\src,project	ests,project\docs`）、执行 Python script、把输出存到文件
 - **练习：YAML** — 用 Python 读一个 `.yaml` 配置文件，改一个值，再写回去
